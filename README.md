@@ -1,4 +1,4 @@
-# Other-group-Projects <br/>
+# Other-Group-Projects <br/>
 
 ### 1. Information Systems & Programming Project: GymToGo Android App <br/>
 #### Video link: https://www.youtube.com/watch?v=M1zkyfnTvfE <br/>
