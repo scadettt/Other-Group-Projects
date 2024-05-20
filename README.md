@@ -1,6 +1,6 @@
 # Other-group-Projects <br/>
 
-
+<br/>
 ## 1. Information Systems & Programming Project: GymToGo Android App <br/>
 ### My role: Developer <br/>
 ### Video Link: https://www.youtube.com/watch?v=M1zkyfnTvfE <br/>
