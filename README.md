@@ -1,5 +1,4 @@
-# Other-Projects
-For the private school project repos that will never see the light of day...
+# Other-Projects - for the private school project repos that will never see the light of day...
 
 ## 1. Information Systems & Programming Project: GymToGo Android App
 ### Video Link: https://www.youtube.com/watch?v=M1zkyfnTvfE
