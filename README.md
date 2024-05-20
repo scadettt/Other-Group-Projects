@@ -1,4 +1,4 @@
-# Other-Projects <br/>
+# Other-group-Projects <br/>
 
 
 ## 1. Information Systems & Programming Project: GymToGo Android App <br/>
