@@ -1,5 +1,5 @@
 # Other-Projects <br/>
-For the private school project repos that will never see the light of day... <br/>
+
 
 ## 1. Information Systems & Programming Project: GymToGo Android App <br/>
 
