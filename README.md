@@ -27,7 +27,7 @@ GymToGo is a fitness application designed specifically for frequent travellers w
 - Larioza Andrea Ronquillo <br/>
 - Royce Lim Way Tat <br/>
 - Muhammadh Shahriyyah Khan s/o Mohamed Kamaludeen <br/>
-#### My role: Assistance with building hardware <br/>
+#### My role: Assistance in building of the hardware <br/>
 Recall is a simple game that will put your memory to the test, where you have to memorise several mazes and navigate your way through a randomly chosen one. With each successful stage, the difficulty of the game increases in terms of reduced time for memorising the maze. Check out the links for more info! <br/>
 
 ![recall](https://github.com/scadettt/Other-Group-Projects/assets/158037754/9cc10b79-911a-4da0-841c-1fad61f39027)
