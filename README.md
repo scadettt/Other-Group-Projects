@@ -30,7 +30,6 @@ GymToGo is a fitness application designed specifically for frequent travellers w
 #### My role: Assistance in building of the hardware <br/>
 Recall is a simple game that will put your memory to the test, where you have to memorise several mazes and navigate your way through a randomly chosen one. With each successful stage, the difficulty of the game increases in terms of reduced time for memorising the maze. Check out the links for more info! <br/>
 
-![Frame 9](https://github.com/scadettt/Other-Group-Projects/assets/158037754/78134bc8-0cea-4b61-b312-34bcea0d1d68)
 ![Frame 9 (1)](https://github.com/scadettt/Other-Group-Projects/assets/158037754/6cd38ea2-710b-4f60-9d73-b6d65e8ab9a1)
 
 
