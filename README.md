@@ -41,7 +41,7 @@ Recall is a simple game that will put your memory to the test, where you have to
 - Tan Jie Ping <br/>
 - Ooi Zher Xian <br/>
 - Issac Anand Rajaram <br/>
-#### My role: Poster design and Building of the model <br/>
+#### My role: Poster design and Building of the physical model <br/>
 Zen-arium is a project aimed towards providing a calmer and more enjoyable experience for commuters travelling to and from work, as well as opening up avenues for increased social interactions among the general commuters. Our solution revolves around bringing life into the dull and solemn atmosphere of the regular Changi Business Park Underpass through the installation of a life-size terrarium. Beyond creating a miniature model of our solution, we also analyse the possible unintended consequences of our solution, which can be found on the website link. Check it out! <br/>
 
 ![zen-arium](https://github.com/scadettt/Other-Group-Projects/assets/158037754/91a2104f-697c-45dd-9975-56a63c1272cd)
