@@ -13,7 +13,7 @@
 #### My role: Developer <br/>
 GymToGo is a fitness application designed specifically for frequent travellers who want to maintain their fitness on the go. The main goal of the app is to generate personalised workouts based on the equipment available to the user. It also includes features such as finding hotels, saving your favourite workouts as well as customising your profile. Check out the video link for more details about our app! <br/>
 
-![gymtogo](https://github.com/scadettt/Other-Group-Projects/assets/158037754/5cb6c691-d67c-4ff3-9b00-37891f0bfd03)
+![Group 42](https://github.com/scadettt/Other-Group-Projects/assets/158037754/6d5e66c1-5e2f-4ca0-a7b6-f470c52ae581)
 
 
 ### 2. Computation Structures Project: Recall Game created entirely on an FPGA <br/>
@@ -30,7 +30,7 @@ GymToGo is a fitness application designed specifically for frequent travellers w
 #### My role: Assistance in building of the hardware <br/>
 Recall is a simple game that will put your memory to the test, where you have to memorise several mazes and navigate your way through a randomly chosen one. With each successful stage, the difficulty of the game increases in terms of reduced time for memorising the maze. Check out the links for more info! <br/>
 
-![recall](https://github.com/scadettt/Other-Group-Projects/assets/158037754/9cc10b79-911a-4da0-841c-1fad61f39027)
+![Frame 9](https://github.com/scadettt/Other-Group-Projects/assets/158037754/78134bc8-0cea-4b61-b312-34bcea0d1d68)
 
 
 ### 3. Design Thinking and Innovation Project: Zen-arium <br/>
