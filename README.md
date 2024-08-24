@@ -33,7 +33,21 @@ Recall is a simple game that will put your memory to the test, where you have to
 <img src="https://github.com/scadettt/Other-Group-Projects/assets/158037754/6cd38ea2-710b-4f60-9d73-b6d65e8ab9a1" width="700">
 
 
-### 3. Design Thinking and Innovation Project: Zen-arium <br/>
+### 3. Elements of Software Construction Project: Web application for improving the efficiency of performance appraisal processes <br/>
+#### Full repo link: private due to Non-Disclosure Agreement with said company
+#### Team Members: <br/>
+- Benjamin Lee Ze Perng <br/>
+- Ng Jia Sing <br/>
+- Ho Atsadet <br/>
+- Ng Wan Qing <br/>
+- Pea Jun Hao Darren <br/>
+- Chu Mei Qi <br/>
+- Kwa En Ming Samuel <br/>
+#### My role: Created MySQL database and Backend Development <br/>
+This web application aims to help the company streamline their performance appraisal processes by digitising the physical forms and implementing a tracking system to monitor all upcoming appraisals and their status throughout the process. This allows for more sustainable appraisal processes and provides room for scalability especially as the company grows and has more employees to keep track of. <br/>
+
+
+### 4. Design Thinking and Innovation Project: Zen-arium <br/>
 #### Website link: https://projects2023cohort7group3.wordpress.com/project-part-4/ <br/>
 #### Team Members: <br/>
 - Wong Jun Ming, Ivan <br/>
