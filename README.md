@@ -33,7 +33,7 @@ Recall is a simple game that will put your memory to the test, where you have to
 <img src="https://github.com/scadettt/Other-Group-Projects/assets/158037754/6cd38ea2-710b-4f60-9d73-b6d65e8ab9a1" width="700">
 
 
-### 3. Elements of Software Construction Project: Web application for improving the efficiency of performance appraisal processes <br/>
+### 3. Elements of Software Construction Project: Digitised Appraisal Web Application <br/>
 #### Full repo link: private due to Non-Disclosure Agreement with said company
 #### Team Members: <br/>
 - Benjamin Lee Ze Perng <br/>
