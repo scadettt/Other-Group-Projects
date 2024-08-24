@@ -43,7 +43,7 @@ Recall is a simple game that will put your memory to the test, where you have to
 - Pea Jun Hao Darren <br/>
 - Chu Mei Qi <br/>
 - Kwa En Ming Samuel <br/>
-#### My role: Created MySQL database and Backend Development <br/>
+#### My role: Created MySQL database and Backend Development with Express.js framework <br/>
 This web application aims to help the company streamline their performance appraisal processes by digitising the physical forms and implementing a tracking system to monitor all upcoming appraisals and their status throughout the process. This allows for more sustainable appraisal processes and provides room for scalability especially as the company grows and has more employees to keep track of. <br/>
 
 
